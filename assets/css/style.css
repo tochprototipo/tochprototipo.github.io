@@ -1281,13 +1281,20 @@ section {
 .flip-card-back {
   background: linear-gradient(to right, #f9894e, #f9894e);
   color: white;
-  font-size: 1px;
   transform: rotateY(180deg);
   z-index: 1;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
+
+
+
+
+
+
+
 
 
 
